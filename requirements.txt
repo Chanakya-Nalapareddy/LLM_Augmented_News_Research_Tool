@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+torch
+transformers
+openai
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai  
+unstructured
+html2text  
+beautifulsoup4  
+tqdm
+requests
+

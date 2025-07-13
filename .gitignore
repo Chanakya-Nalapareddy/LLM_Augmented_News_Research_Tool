@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+faiss_store_hugging_face.pkl
+*.pkl
+.DS_Store
+*.log
+main.py
